@@ -1,0 +1,2 @@
+make	Model	MPG	Cylinders	Engine Disp	Horsepower	Weight	Accelerate	Year	Origin
+amc	amc ambassadordpl	15	8	390	190	3850	8.5	70	American
